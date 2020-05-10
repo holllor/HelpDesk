@@ -33,19 +33,31 @@
         <dependency>
             <groupId>org.primefaces</groupId>
             <artifactId>primefaces</artifactId>
-            <version>6.2</version>
+            <version>7.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-core -->
         <dependency>
             <groupId>org.apache.shiro</groupId>
             <artifactId>shiro-core</artifactId>
-            <version>1.4.0</version>
+            <version>1.5.2</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-web -->
         <dependency>
             <groupId>org.apache.shiro</groupId>
             <artifactId>shiro-web</artifactId>
-            <version>1.4.0</version>
+            <version>1.5.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-web -->
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-ehcache</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-web -->
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-web</artifactId>
+            <version>1.5.2</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
         <dependency>
